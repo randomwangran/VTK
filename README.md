@@ -1,6 +1,8 @@
 why?
 
 
+https://discourse.paraview.org/t/is-there-a-glowing-i-e-emitting-light-effect-for-objects/3593/12
+
 ![VTK - The Visualization Toolkit](vtkBanner.gif)
 
 
