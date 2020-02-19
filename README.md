@@ -1,5 +1,12 @@
 ![VTK - The Visualization Toolkit](vtkBanner.gif)
 
+
+* todo
+
+1. compile
+2. play.
+
+
 Introduction
 ============
 
